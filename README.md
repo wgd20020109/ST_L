@@ -33,24 +33,8 @@
 - 定时与计数器（TON、TOF、TP 等）和常用库的使用。
 - PID 控制实现、状态机设计、通信（Modbus、Ethernet/IP 等）示例。
 
-## 贡献
-欢迎贡献代码与文档：
-1. Fork 本仓库并在新分支上实现改动。
-2. 提交清晰的 commit 信息并发起 Pull Request。
-3. 在 PR 描述中说明改动目的与测试方法。
-
-## 许可证
-本仓库当前未包含明确许可信息。建议添加 LICENSE 文件以声明使用与分发条款（例如 MIT、Apache-2.0 等）。
-
 ## 参考资料
 - IEC 61131-3 标准（Structured Text 所属标准）
 - CODESYS 官方文档
 - Beckhoff TwinCAT 文档与 SCL 教程
 - OpenPLC 项目主页与文档
-
-## 联系
-如有问题或建议，请联系仓库所有者：wgd20020109。
-
----
-
-（该 README 为针对 ST 学习用途的初始说明；如需我把 README 同步为英文版、添加示例代码片段或创建 LICENSE 文件，我可以继续为您更新。）
